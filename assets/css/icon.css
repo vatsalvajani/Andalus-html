@@ -1,0 +1,12 @@
+@font-face { font-family: 'andalus-icon'; src: url('fonts/andalus-icon.eot?5b5qt5'); src: url('fonts/andalus-icon.eot?5b5qt5#iefix') format('embedded-opentype'), url('fonts/andalus-icon.ttf?5b5qt5') format('truetype'), url('fonts/andalus-icon.woff?5b5qt5') format('woff'), url('fonts/andalus-icon.svg?5b5qt5#andalus-icon') format('svg'); font-weight: normal; font-style: normal; }
+[class^="icon-"], [class*=" icon-"] {  /* use !important to prevent issues with browser extensions that change fonts */
+font-family: 'andalus-icon' !important; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1;  /* Better Font Rendering =========== */ -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.icon-facebook .path1:before { content: "\e902"; color: rgb(59, 89, 152); }
+.icon-facebook .path2:before { content: "\e903"; margin-left: -1em; color: rgb(255, 255, 255); }
+.icon-linkedin .path1:before { content: "\e904"; color: rgb(0, 122, 185); }
+.icon-linkedin .path2:before { content: "\e906"; margin-left: -1em; color: rgb(241, 242, 242); }
+.icon-arrow-right:before { content: "\e900"; }
+.icon-arrow-left:before { content: "\e901"; }
+.icon-add:before { content: "\e905"; }
+.icon-location:before { content: "\e908"; }
+.icon-share:before { content: "\e909"; }
